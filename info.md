@@ -1,2 +1,1 @@
-git is awesom!
-new line
+how it work?
